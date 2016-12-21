@@ -1,0 +1,18 @@
+{
+  "name": "oubliee",
+  "version": "1.0.0",
+  "description": "Remind people when actions are due. Like an alarm clock with snooze.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunbee",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongoose": "^4.7.3",
+    "underscore": "^1.8.3",
+    "wagner": "^0.6.4",
+    "wagner-core": "^0.2.0"
+  }
+}
